@@ -1,0 +1,14 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Erika Ortiz}
+((* endblock author *))
+
+((* block title *))
+\title{BERT-Research}
+((* endblock title *))
+
+((* block bibliography *))
+\bibliographystyle{unsrt}
+\bibliography{jupyter}
+((* endblock bibliography *))
